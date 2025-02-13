@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+target/
+bin/
+.idea/
+# Logs and temp files
+*.log
+*.tmp

@@ -17,8 +17,4 @@ spec:
           image: kashish2597/spring-k8:latest
           ports:
             - containerPort: 8080
-          resources:
-            requests:
-              cpu: "250m"  # Requests 250 millicores (0.25 CPU)
-            limits:
-              cpu: "500m"  # Max 0.5 CPU
+
